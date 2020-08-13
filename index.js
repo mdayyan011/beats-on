@@ -33,11 +33,11 @@ function makeSound(key){
     tom4.play();
     break;
     case "j":
-    var snare=new Audio('snare.mp3');
+    var snare=new Audio('crash.mp3');
     snare.play();
     break;
     case "k":
-    var crash= new Audio('crash.mp3');
+    var crash= new Audio('snare.mp3');
     crash.play();
     break;
     case "l":
